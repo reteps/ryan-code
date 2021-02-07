@@ -1,0 +1,40 @@
+/TP
+/nologo
+/c
+/DRUNNING_FRC_TESTS
+/W3
+/EHsc
+/Zi
+/FS
+/Zc:inline
+/wd4244
+/wd4267
+/wd4146
+/wd4996
+/Zc:throwingNew
+/D_CRT_SECURE_NO_WARNINGS
+/std:c++17
+/permissive-
+/Od
+/MDd
+/IC:\Users\Peter\repos\basic-robot-lesson\src\main\include
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\77aec02c88b6cdbbe6ae1baa0d102dbc\wpilibc-cpp-2020.1.2-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\603cb3c4292f5c9ad5d0f9e5f496c319\ntcore-cpp-2020.1.2-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\6052d830a658f522a859cddd6e1e0630\hal-cpp-2020.1.2-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\2aade005695a325322cde8f3ee86761b\wpiutil-cpp-2020.1.2-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\7efde753c0dd9aec36ed8ab2bd1e5fc2\cameraserver-cpp-2020.1.2-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\6da1ee272b6a74bff11c1c409cf00b58\cscore-cpp-2020.1.2-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\eed3931469ba7efc2e953f8f3443a673\opencv-cpp-3.4.7-2-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\e624957d2a7c4bbd2b101139d407f58d\googletest-1.9.0-3-437e100-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\c6de527d52937338dd2a0e299b33528b\wpiapi-cpp-5.18.3-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\31ff898ac54506e8a436ede8dd5742de\api-cpp-5.18.3-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\25d317bc2ebee32c3b99b3420de6fd8d\cci-5.18.3-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\bc11662868bf83859106f970aa3ae83b\diagnostics-5.18.3-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\03856d01860483deb36ffbffe77c1600\canutils-5.18.3-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5300d3a5512e8a22a730cc7fa910ac0d\platform-stub-5.18.3-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\36a0d11d327d9cf4d6fe2a943b2093b9\core-5.18.3-headers
+/IC:\Users\Peter\.gradle\caches\transforms-2\files-2.1\c063bc61295dc3791e134b3c4f30c5cc\wpilibOldCommands-cpp-2020.1.2-headers
+"/IC:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include"
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um"
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared"
+"/IC:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt"

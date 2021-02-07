@@ -1,0 +1,44 @@
+/DEBUG:FULL
+/OUT:C:\Users\Peter\repos\basic-robot-lesson\build\exe\frcUserProgramTest\windowsx86-64\debug\frcUserProgramTest.exe
+/NOLOGO
+"/LIBPATH:C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\lib\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\um\x64"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\ucrt\x64"
+C:\Users\Peter\repos\basic-robot-lesson\build\objs\frcUserProgramTest\windowsx86-64\debug\frcUserProgramTestCpp\4kav41ravy7v2me881tk87z1i\main.obj
+C:\Users\Peter\repos\basic-robot-lesson\build\objs\frcUserProgramTest\windowsx86-64\debug\frcUserProgramCpp\3bg5a77l7vd4edmrxq5jco6ri\Robot.obj
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\ede7bf49666a99fe0aed2388c6795a09\wpilibc-cpp-2020.1.2-windowsx86-64debug\windows\x86-64\shared\wpilibcd.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b3b090826a98965eed7391514d41145\ntcore-cpp-2020.1.2-windowsx86-64debug\windows\x86-64\shared\ntcored.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b3b090826a98965eed7391514d41145\ntcore-cpp-2020.1.2-windowsx86-64debug\windows\x86-64\shared\ntcorejni.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\7f56aee5a5c71d5c1f56a86ef3c30b01\hal-cpp-2020.1.2-windowsx86-64debug\windows\x86-64\shared\wpiHald.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\7f56aee5a5c71d5c1f56a86ef3c30b01\hal-cpp-2020.1.2-windowsx86-64debug\windows\x86-64\shared\wpiHaljni.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\e23f25e2c0de3f340e9ece19a27a2b85\wpiutil-cpp-2020.1.2-windowsx86-64debug\windows\x86-64\shared\wpiutild.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\e23f25e2c0de3f340e9ece19a27a2b85\wpiutil-cpp-2020.1.2-windowsx86-64debug\windows\x86-64\shared\wpiutiljni.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\0b3d167f70923b1f350701334b065c7b\cameraserver-cpp-2020.1.2-windowsx86-64debug\windows\x86-64\shared\cameraserverd.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\85440d7df59ba7dba19a1941eed88cbe\cscore-cpp-2020.1.2-windowsx86-64debug\windows\x86-64\shared\cscored.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\85440d7df59ba7dba19a1941eed88cbe\cscore-cpp-2020.1.2-windowsx86-64debug\windows\x86-64\shared\cscorejni.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_calib3d347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_core347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_features2d347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_flann347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_highgui347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_imgcodecs347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_imgproc347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_java347.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_ml347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_objdetect347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_photo347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_shape347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_stitching347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_superres347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_video347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_videoio347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\5b10ddde48ec4bfe9a53a6448bff1287\opencv-cpp-3.4.7-2-windowsx86-64debug\windows\x86-64\shared\opencv_videostab347d.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\001c27f99f15c45b4750fdcb1fc0f78f\googletest-1.9.0-3-437e100-windowsx86-64staticdebug\windows\x86-64\static\googletestd.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\44999a73f08c44829b6dd74ab07321ef\wpiapi-cpp-5.18.3-windowsx86-64staticdebug\windows\x86-64\static\CTRE_Phoenix_WPI.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\ee2c07d2e949787fdd8d616a18791098\api-cpp-5.18.3-windowsx86-64staticdebug\windows\x86-64\static\CTRE_Phoenix.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\098d224081f99f8a3e8214de730e1305\cci-5.18.3-windowsx86-64staticdebug\windows\x86-64\static\CTRE_PhoenixCCI.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\a4ab68c9868b378d401fe2aa24f80f6b\diagnostics-5.18.3-windowsx86-64staticdebug\windows\x86-64\static\CTRE_PhoenixDiagnostics.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\884f07968007b5d2dbc8c7b2f1a936a0\canutils-5.18.3-windowsx86-64staticdebug\windows\x86-64\static\CTRE_PhoenixCanutils.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\25d1e6435fcd9446a8cbd7ff9875a1ad\platform-stub-5.18.3-windowsx86-64staticdebug\windows\x86-64\static\CTRE_PhoenixPlatform.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\9dbf68e3ef6d6fab38226366acae3964\core-5.18.3-windowsx86-64staticdebug\windows\x86-64\static\CTRE_PhoenixCore.lib
+C:\Users\Peter\.gradle\caches\transforms-2\files-2.1\ad8042ce5326bf676a5e14ed49553386\wpilibOldCommands-cpp-2020.1.2-windowsx86-64debug\windows\x86-64\shared\wpilibOldCommandsd.lib
